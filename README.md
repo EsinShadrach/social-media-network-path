@@ -1,3 +1,5 @@
+
+
 # Social Network Path Finder
 
 A Python desktop app that finds and animates the **shortest connection path** between two people in a social network using **Bi-Directional Breadth-First Search (Bi-BFS)**.
@@ -16,7 +18,7 @@ Built as a visual explainer for graph theory concepts — each person is a node,
 
 ### Full animation
 
-https://github.com/EsinShadrach/social-media-network-path/raw/main/full-flow.mp4
+[https://github.com/EsinShadrach/social-media-network-path/raw/main/full-flow.mp4](https://github.com/user-attachments/assets/e8d45e8a-e652-48e0-a517-52f617563709)
 
 ---
 
